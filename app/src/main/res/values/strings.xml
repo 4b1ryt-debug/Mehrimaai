@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Mehrima AI</string>
-    <string name="accessibility_service_description">Mehrima AI Accessibility Service for voice automation</string>
-    <string name="dashboard_title">Mehrima AI Dashboard</string>
-    <string name="system_logs">System Logs</string>
-    <string name="knowledge_files">Knowledge Files</string>
-</resources>
