@@ -1,2 +1,0 @@
-# Mehrimaai
-Kisu nai 
